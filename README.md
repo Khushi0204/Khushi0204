@@ -28,8 +28,9 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
- <button alt="stats" a href="(https://gssoc.girlscript.tech/contributorAnalytics) >See my Gssoc Leader Board</button>
+ <a href="(https://gssoc.girlscript.tech/contributorAnalytics) >See my Gssoc Leader Board</a>
 </details>
+
 
 
 <p><img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi0204&show_icons=true&locale=en&layout=compact" alt="khushi0204" /></p>
