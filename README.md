@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Khushi0204/Khushi0204/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
