@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 ![logo]((https://github.com/Khushi0204/Khushi0204/blob/main/Github%20Banner.png))
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi0204" alt="khushi0204" /></a> </p>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 📫 How to reach me **KhushiSharma20190@gmail.com**
 
